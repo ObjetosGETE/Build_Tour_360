@@ -59,7 +59,7 @@
             <button onclick="window.location.href='https://faciltecnologias.com.br/apostila/pdfs/pdf1.pdf'">
                 <img src="https://faciltecnologias.com.br/apostila/img/download.png" alt="Baixa o PDF">
             </button>
-            <p class="button-text">Clique para realizar o download e abrir o PDF</p>
+            <p class="button-text">Clique para realizar o download e abrir logo após</p>
         </div>
     </div>
 </body>
