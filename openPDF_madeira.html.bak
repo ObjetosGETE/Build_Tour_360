@@ -50,13 +50,13 @@
 <body>
     <div class="button-container">
         <div>
-            <button onclick="window.location.href='https://docs.google.com/gview?embedded=true&url=https://github.com/ObjetosGETE/Build_Tour_360/blob/main/PDFs/06_chapa_dura.pdf'">
+            <button onclick="window.location.href='https://docs.google.com/gview?embedded=true&url=https://faciltecnologias.com.br/apostila/pdfs/pdf1.pdf'">
                 <img src="https://faciltecnologias.com.br/apostila/img/madeira.png" alt="Abre o PDF">
             </button>
             <p class="button-text">Clique para abrir o PDF sem download</p>
         </div>
         <div>
-            <button onclick="window.location.href='https://github.com/ObjetosGETE/Build_Tour_360/blob/main/PDFs/06_chapa_dura.pdf'">
+            <button onclick="window.location.href='https://faciltecnologias.com.br/apostila/pdfs/pdf1.pdf'">
                 <img src="https://faciltecnologias.com.br/apostila/img/download.png" alt="Baixa o PDF">
             </button>
             <p class="button-text">Clique para realizar o download e abrir o PDF</p>
